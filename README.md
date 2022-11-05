@@ -19,5 +19,4 @@
 </div>
 
 ##
-
 ![Snake animation](https://github.com/srg-toledo/srg-toledo/blob/output/github-contribution-grid-snake.svg)
